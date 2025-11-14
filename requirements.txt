@@ -15,3 +15,5 @@ torchvision
 pathlib
 PIL
 pickle
+transformers
+accelerate
