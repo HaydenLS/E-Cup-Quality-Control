@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+jupyter
+lightgbm
+catboost
+torch
+torchvision
+tqdm
+sentence_transformers
+torch
+torchvision
+pathlib
+PIL
+pickle

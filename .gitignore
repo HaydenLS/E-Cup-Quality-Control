@@ -1,0 +1,12 @@
+.venv/
+data/
+data/test.csv
+data/train.csv
+notebooks/checkpoints/
+notebooks/catboost_info/
+notebooks/img_emb/
+notebooks/pca/
+notebooks/text_emb/
+"*.ipynb_checkpoints/"
+__pycache__/
+"*.pyc"
